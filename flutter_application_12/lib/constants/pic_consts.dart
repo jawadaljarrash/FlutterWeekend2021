@@ -1,0 +1,11 @@
+const String kLogoSvgAsset = 'assets/svgs/logo.svg';
+const String kBurger = 'assets/svgs/Burger.svg';
+const String kprofilePicSvg = 'assets/svgs/profilePic.svg';
+const String kBlueRec = 'assets/svgs/blueRec.svg';
+const String kappoinemnt = 'assets/svgs/appoinment.svg';
+const String kprof = 'assets/svgs/prof.svg';
+const String kuser = 'assets/svgs/user.PNG';
+const String kMan = 'assets/svgs/man.svg';
+const String kDaig = 'assets/svgs/daig.svg';
+const String kResult = 'assets/svgs/result.svg';
+const String kMed = 'assets/svgs/med.svg';
